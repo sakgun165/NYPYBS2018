@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H7Metod", "H7Metod\H7Metod.csproj", "{2FA5FDA2-96A2-4CD9-88D1-B43E7E2B97CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FA5FDA2-96A2-4CD9-88D1-B43E7E2B97CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FA5FDA2-96A2-4CD9-88D1-B43E7E2B97CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FA5FDA2-96A2-4CD9-88D1-B43E7E2B97CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FA5FDA2-96A2-4CD9-88D1-B43E7E2B97CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
